@@ -1,0 +1,166 @@
+20
+amb: 0.1 0.1 0.1
+
+light
+pos: 0 5 -5
+col: 1 1 1
+
+light
+pos: -5 2 -2
+col: 1 0.5 0.5
+
+sphere
+pos: 1.2 0 -3
+rad: 1
+dif: 0.1 0.1 0.1
+spe: 0.9 0.9 0.9
+shi: 100
+
+sphere
+pos: 2 -0.75 -4
+rad: 0.25
+dif: 0.1 0.1 0.5
+spe: 0.5 0.5 0.7
+shi: 50
+
+sphere
+pos: 2 -0.75 -3
+rad: 0.25
+dif: 0.1 0.5 0.1
+spe: 0.1 0.1 0.1
+shi: 10
+
+triangle
+pos: -5 -1 -10
+nor: 0 1 0
+dif: 0.2 0.2 0.2
+spe: 0.8 0.8 0.8
+shi: 100
+pos: 5 -1 -10
+nor: 0 1 0
+dif: 0.2 0.2 0.2
+spe: 0.8 0.8 0.8
+shi: 100
+pos: 5 -1 0
+nor: 0 1 0
+dif: 0.2 0.2 0.2
+spe: 0.8 0.8 0.8
+shi: 100
+
+triangle
+pos: -5 -1 -10
+nor: 0 1 0
+dif: 0.2 0.2 0.2
+spe: 0.8 0.8 0.8
+shi: 100
+pos: 5 -1 0
+nor: 0 1 0
+dif: 0.2 0.2 0.2
+spe: 0.8 0.8 0.8
+shi: 100
+pos: -5 -1 0
+nor: 0 1 0
+dif: 0.2 0.2 0.2
+spe: 0.8 0.8 0.8
+shi: 100
+
+sphere
+pos: 0 -0.75 -4
+rad: 0.25
+dif: 0.5 0.5 0.5
+spe: 0.9 0.9 0.9
+shi: 200
+
+sphere
+pos: -1.5 -0.75 -3
+rad: 0.25
+dif: 1 1 0.8
+spe: 0.1 0.1 0.1
+shi: 5
+
+sphere
+pos: -1 -0.75 -2.5
+rad: 0.25
+dif: 0.8 0.2 0.2   
+spe: 0.3 0.1 0.1
+shi: 20
+
+
+sphere
+pos: 0 -0.75 -3.5
+rad: 0.25
+dif: 0.2 0.8 0.2  
+spe: 0.1 0.3 0.1
+shi: 15
+
+
+sphere
+pos: 1 -0.75 -3
+rad: 0.25
+dif: 0.2 0.2 0.8    
+spe: 0.1 0.1 0.3
+shi: 25
+
+
+sphere
+pos: -1.5 -0.75 -4
+rad: 0.25
+dif: 0.8 0.8 0.2   
+spe: 0.3 0.3 0.1
+shi: 18
+
+
+sphere
+pos: 1.75 -0.75 -1.25
+rad: 0.25
+dif: 0.8 0.2 0.8   
+spe: 0.3 0.1 0.3
+shi: 22
+
+
+sphere
+pos: -0.5 -0.75 -2
+rad: 0.25
+dif: 0.2 0.8 0.8    
+spe: 0.1 0.3 0.3
+shi: 20
+
+
+sphere
+pos: 0.5 -0.75 -4.5
+rad: 0.25
+dif: 0.5 0.3 0.1   
+spe: 0.2 0.1 0.05
+shi: 12
+
+
+
+sphere
+pos: -2.5 -0.75 -3.5
+rad: 0.25
+dif: 0.5 0.1 0.1   
+spe: 0.2 0.1 0.1
+shi: 18
+
+
+sphere
+pos: 2 -0.75 -3
+rad: 0.25
+dif: 0.1 0.5 0.5   
+spe: 0.1 0.2 0.2
+shi: 20
+
+sphere
+pos: -1 -0.75 -4.5
+rad: 0.25
+dif: 0.5 0.5 0.5   
+spe: 0.3 0.3 0.3
+shi: 25
+
+
+sphere
+pos: 1 -0.75 -2.0
+rad: 0.25
+dif: 0.9 0.6 0.2    
+spe: 0.3 0.2 0.1
+shi: 22
